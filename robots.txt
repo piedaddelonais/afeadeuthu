@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://etahdainga.kredy.co/sitemap.xml
